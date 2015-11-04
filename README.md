@@ -1,4 +1,7 @@
 # like2sushi
+
+Annotation: This is the fork of mzyy94/like2sushi
+
 ![icon](icon.png)
 
 ついたーのFav:star:がLike:heart:に変えられてしまったのでSushi:sushi:に戻すやつ
