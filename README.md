@@ -2,6 +2,25 @@
 
 Annotation: This is the fork of mzyy94/like2sushi
 
+## How to install
+
+0. Clone this repository to any directory
+0. Open Safari
+0. Display "Develop" menu
+0. "Develop" => "Show Extension Builder"
+0. Click "+" button on the left bottom, "Add Extension..."
+0. Select cloned repository named "like2sushi.safariextension"
+0. Click "Install" on the right top
+0. You can "sushi" tweets
+
+
+---
+
+The original README is below:
+
+---
+
+
 ![icon](icon.png)
 
 ついたーのFav:star:がLike:heart:に変えられてしまったのでSushi:sushi:に戻すやつ
